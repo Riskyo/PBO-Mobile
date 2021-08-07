@@ -4,7 +4,12 @@
         <item>Celcius to Reamor</item>
         <item>Celcius to Fahrenheit</item>
         <item>Celcius to Kelvin</item>
-        <item>Reamor to Reamor</item>
+        <item>Reamor to Celcius</item>
         <item>Reamor to Fahrenheit</item>
+        <item>Reamor to Kelvin</item>
+        <item>Fahrenheit to Celcius</item>
+        <item>Fahrenheit to Reamor</item>
+        <item>Kelvin to Celcius</item>
+        <item>Kelvin to Reamor</item>
     </string-array>
 </resources>
