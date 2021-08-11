@@ -3,9 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/PBO-Mobile/Android-Studio/RecycleViewCardView/app/src/main/res/layout/activity_main.xml" value="0.33" />
-        <entry key="..\:/PBO-Mobile/Android-Studio/RecycleViewCardView/app/src/main/res/layout/item_siswa.xml" value="0.5" />
-        <entry key="..\:/PBO-Mobile/Android-Studio/RecycleViewCardView/app/src/main/res/menu/menu_option.xml" value="0.1824074074074074" />
+        <entry key="..\:/PBO-Mobile/Android-Studio/SQLiteDatabase/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
