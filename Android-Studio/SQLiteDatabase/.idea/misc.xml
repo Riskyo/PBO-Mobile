@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/PBO-Mobile/Android-Studio/SQLiteDatabase/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/PBO-Mobile/Android-Studio/SQLiteDatabase/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/PBO-Mobile/Android-Studio/SQLiteDatabase/app/src/main/res/layout/item_barang.xml" value="0.494949494949495" />
+        <entry key="..\:/PBO-Mobile/Android-Studio/SQLiteDatabase/app/src/main/res/menu/menu_item.xml" value="0.33" />
       </map>
     </option>
   </component>
