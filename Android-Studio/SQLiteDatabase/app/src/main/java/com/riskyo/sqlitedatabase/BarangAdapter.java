@@ -50,7 +50,7 @@ public class BarangAdapter extends RecyclerView.Adapter<BarangAdapter.ViewHolder
 
                         switch (item.getItemId()) {
                             case R.id.Ubah:
-                                Toast.makeText(context, "Ubah", Toast.LENGTH_SHORT).show();
+                                ((MainActivity)context).selectUpdate(barangList.get(i).getIdbarang());
                             break;
 
                             case R.id.Hapus:
